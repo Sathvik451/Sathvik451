@@ -1,16 +1,64 @@
-## Hi there 👋
+<!-- Profile Header -->
+<p align="center">
+  
+</p>
 
-<!--
-**Sathvik451/Sathvik451** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Sathvik</h1>
+<h3 align="center">A Passionate Full Stack Web Developer 🚀</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+- 💻 I’m a **Full Stack Web Developer** with strong skills in backend & frontend.  
+- 🎯 Passionate about building scalable web apps, APIs, and creative UI/UX designs.  
+- 📚 Currently learning **modern frameworks & deployment strategies**.  
+- ⚡ Fun fact: *I debug better with coffee ☕*.  
+
+---
+
+## 🛠️ Tech Stack
+
+### 🔹 Languages & Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,nodejs,express" />
+</p>
+
+### 🔹 Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### 🔹 Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="Streak Stats" height="180px"/>
+</p>
+
+---
+
+
+---
+
+## 🤝 Connect With Me
+<p align="left">
+  <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+  </a>
+  <a href="mailto:youremail@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40"/>
+  </a>
+  <a href="https://github.com/yourusername">
+    <img src="https://skillicons.dev/icons?i=github" width="40"/>
+  </a>
+</p>
+
+---
+
+<p align="center">✨ Thanks for visiting my profile ✨</p>
