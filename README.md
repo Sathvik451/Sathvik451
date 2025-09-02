@@ -20,7 +20,7 @@
 
 ### 🔹 Languages & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,react,advance java" />
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,react" />
 </p>
 
 ### 🔹 Databases
