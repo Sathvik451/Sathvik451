@@ -48,7 +48,7 @@
 
 ## 🤝 Connect With Me
 <p align="left">
-  <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
+  <a href="www.linkedin.com/in/sathvik-poojary-4bb779328" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
   </a>
   <a href="mailto:youremail@gmail.com">
